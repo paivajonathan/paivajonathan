@@ -1,7 +1,5 @@
 ### Opa! Me chamo Jonathan! 😉
 
-- 🌱 Atualmente estudando ReactJS
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paivajonathan&show_icons=true&theme=dracula)
 
 ## Tecnologias
