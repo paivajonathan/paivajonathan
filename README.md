@@ -1,13 +1,13 @@
 ## About me
 
+<img align="right" src="https://media.tenor.com/_HwQHDixHnMAAAAC/kitten-cat.gif">
+
 ### What's up, my name's Jonathan! 😉
 
-* Currently studying Django
-* In love with Python syntax
+- 👨‍💻 Currently studying Django
+- 🐍 In love with Python syntax
 
 ### Academic background 🎓
-
-<img align="right" src="https://media.tenor.com/_HwQHDixHnMAAAAC/kitten-cat.gif">
 
 * Software Development / High School - IFPI
 * Major in Systems Analysis and Development - IFPI (1/5)
