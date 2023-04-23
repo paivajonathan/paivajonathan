@@ -2,6 +2,9 @@
 
 ### What's up, my name's Jonathan! 😉
 
+* Currently studying Django
+* In love with Python syntax
+
 ### Academic background 🎓
 
 <img align="right" src="https://media.tenor.com/_HwQHDixHnMAAAAC/kitten-cat.gif">
