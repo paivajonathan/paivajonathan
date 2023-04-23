@@ -1,6 +1,9 @@
 ### Opa! Me chamo Jonathan! 😉
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paivajonathan&show_icons=true&theme=dracula) -->
+<div>
+   <img height="150vw" src="https://github-readme-stats.vercel.app/api?username=paivajonathan&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true&hide=contribs&hide_border=false"/>
+   <img height="150vw" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paivajonathan&hide=html,python&layout=compact&langs_count=8&theme=dracula"/>
+</div>
 
 ## Tecnologias
 
