@@ -1,4 +1,7 @@
+## About me
 ### What's up, my name's Jonathan! 😉
+* Software Development / High School - IFPI
+* Major in Systems Analysis and Development - IFPI (1/5)
 
 ## Skills
 
