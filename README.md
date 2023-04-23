@@ -1,9 +1,14 @@
 ## About me
+
 ### What's up, my name's Jonathan! 😉
-### Academic background
+
+### Academic background 🎓
+
+<img align="right" src="https://media.tenor.com/_HwQHDixHnMAAAAC/kitten-cat.gif">
+
 * Software Development / High School - IFPI
 * Major in Systems Analysis and Development - IFPI (1/5)
-
+   
 ## Skills
 
 <div>
