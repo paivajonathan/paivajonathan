@@ -1,7 +1,5 @@
 ## About me
 
-<img align="right" src="https://media.tenor.com/_HwQHDixHnMAAAAC/kitten-cat.gif">
-
 ### What's up, my name's Jonathan! 😉
 
 - 👨‍💻 Currently studying Django
