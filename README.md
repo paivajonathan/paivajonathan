@@ -21,9 +21,6 @@
       <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
    </div>
    <br/>
-   <div>
-      <img height="150vw" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paivajonathan&hide=html,python&layout=compact&langs_count=8&theme=dracula"/>
-   </div>
 </div>
 
 ## Contacts
