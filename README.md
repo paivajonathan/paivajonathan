@@ -6,8 +6,8 @@
 
 ### Academic background 🎓
 
-* Software Development / High School - IFPI 🇧🇷
-* Major in Systems Analysis and Development - IFPI (1/5) 🇧🇷
+* Software Development - IFPI 🇧🇷
+* Systems Analysis and Development - IFPI (1/5) 🇧🇷
    
 ## Skills
 
