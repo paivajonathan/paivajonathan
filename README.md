@@ -2,7 +2,7 @@
 
 ### What's up, my name's Jonathan! 😉
 
-- 👨‍💻 Currently studying Django
+- 👨‍💻 Currently studying Django Ninja
 
 ### Academic background 🎓
 
