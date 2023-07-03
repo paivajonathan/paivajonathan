@@ -3,6 +3,7 @@
 ### What's up, my name's Jonathan! 😉
 
 - 👨‍💻 Currently studying Django Ninja
+- 💻 Intern at SN Ambiental
 
 ### Academic background 🎓
 
