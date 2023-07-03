@@ -8,7 +8,7 @@
 
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250" align="center">
 
-### Academic background 🎓
+### Courses
 
 * Software Development - IFPI 🇧🇷
 * Systems Analysis and Development - IFPI (1/5) 🇧🇷
