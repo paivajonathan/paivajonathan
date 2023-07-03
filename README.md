@@ -10,6 +10,7 @@
 * Systems Analysis and Development - IFPI (1/5) 🇧🇷
    
 ## Skills
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paivajonathan&hide_progress=true)
 
 <div>
    <div>
@@ -20,7 +21,6 @@
       <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
       <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
    </div>
-   <br/>
 </div>
 
 ## Contacts
