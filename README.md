@@ -1,6 +1,5 @@
 ## About me
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250" align="right">
 
 ### What's up, my name's Jonathan! 😉
 
@@ -8,6 +7,7 @@
 - 💻 Intern at SN Ambiental
 - 👩‍🔬 Interested in maths, languages, and fullstack development
 
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250" align="right">
 
 ### Academic background 🎓
 
