@@ -4,7 +4,7 @@
 
 - 👨‍💻 Currently studying Django Ninja
 - 💻 Intern at SN Ambiental
-- 👩‍🔬 Interested in maths, learning new languages, and fullstack development
+- 👩‍🔬 Interested in maths, languages, and fullstack development
 
 ### Academic background 🎓
 
