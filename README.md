@@ -2,11 +2,9 @@
 
 ### What's up, my name's Jonathan! 😉
 
-- 👨‍💻 Currently studying Django Ninja
+- 👨‍💻 Currently studying Django Ninja Rest Framework
 - 💻 Intern at SN Ambiental
 - 👩‍🔬 Interested in maths, languages, and fullstack development
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250" align="center">
 
 ### Courses
 
