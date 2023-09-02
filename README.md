@@ -4,7 +4,7 @@
 
 - 👨‍💻 Currently studying Python
 - 💻 Intern at SN Ambiental
-- 👩‍🔬 Interested in maths, languages, and fullstack development
+- 👩‍🔬 Interested in maths, languages, and backend development
 
 ### Courses
 
