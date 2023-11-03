@@ -3,7 +3,6 @@
 ### What's up, my name's Jonathan! 😉
 
 - 👨‍💻 Currently studying Python
-- 💻 Intern at SN Ambiental
 - 👩‍🔬 Interested in maths, languages, and backend development
 
 ### Courses
