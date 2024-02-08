@@ -2,8 +2,8 @@
 
 ### What's up, my name's Jonathan! 😉
 
-- 👨‍💻 Currently studying Python
-- 👩‍🔬 Interested in maths, languages, and backend development
+- 👨‍💻 Currently studying Angular
+- 👩‍🔬 Interested in maths, languages, and fullstack development
 
 ### Courses
 
